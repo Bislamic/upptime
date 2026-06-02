@@ -16,7 +16,7 @@
     "timeMonth": 33,
     "timeYear": 33,
     "dailyMinutesDown": {
-      "2026-06-02": 7,
+      "2026-06-02": 101,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -60,7 +60,7 @@
     "timeMonth": 33,
     "timeYear": 33,
     "dailyMinutesDown": {
-      "2026-06-02": 7,
+      "2026-06-02": 101,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -92,17 +92,17 @@
     "url": "https://islamic.app",
     "icon": "https://islamic.app/favicon.ico",
     "slug": "islamic-app",
-    "status": "degraded",
-    "uptime": "78.20%",
-    "uptimeDay": "60.68%",
+    "status": "up",
+    "uptime": "77.98%",
+    "uptimeDay": "54.19%",
     "uptimeWeek": "79.72%",
-    "uptimeMonth": "78.20%",
-    "uptimeYear": "78.20%",
-    "time": 1677,
-    "timeDay": 1834,
-    "timeWeek": 1572,
-    "timeMonth": 1677,
-    "timeYear": 1677,
+    "uptimeMonth": "77.98%",
+    "uptimeYear": "77.98%",
+    "time": 1668,
+    "timeDay": 1569,
+    "timeWeek": 1540,
+    "timeMonth": 1668,
+    "timeYear": 1668,
     "dailyMinutesDown": {
       "2026-05-10": 113,
       "2026-05-11": 197,
@@ -123,7 +123,7 @@
       "2026-05-29": 167,
       "2026-05-31": 364,
       "2026-06-01": 566,
-      "2026-06-02": 0
+      "2026-06-02": 94
     }
   },
   {
