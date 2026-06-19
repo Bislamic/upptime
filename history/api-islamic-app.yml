@@ -1,7 +1,7 @@
 url: https://api.islamic.app/health
-status: up
-code: 200
-responseTime: 465
-lastUpdated: 2026-06-19T00:20:17.669Z
+status: down
+code: 503
+responseTime: 278
+lastUpdated: 2026-06-19T14:32:27.794Z
 startTime: 2026-05-09T16:35:57.501Z
 generator: Upptime <https://github.com/upptime/upptime>
