@@ -126,17 +126,17 @@
     "url": "https://islamic.app",
     "icon": "https://islamic.app/favicon.ico",
     "slug": "islamic-app",
-    "status": "degraded",
-    "uptime": "93.70%",
-    "uptimeDay": "88.62%",
-    "uptimeWeek": "91.55%",
-    "uptimeMonth": "97.92%",
-    "uptimeYear": "93.70%",
-    "time": 1335,
-    "timeDay": 1511,
-    "timeWeek": 1607,
-    "timeMonth": 1221,
-    "timeYear": 1335,
+    "status": "up",
+    "uptime": "93.69%",
+    "uptimeDay": "87.62%",
+    "uptimeWeek": "91.38%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "93.69%",
+    "time": 1330,
+    "timeDay": 1497,
+    "timeWeek": 1580,
+    "timeMonth": 1209,
+    "timeYear": 1330,
     "dailyMinutesDown": {
       "2026-05-10": 113,
       "2026-05-11": 197,
@@ -168,7 +168,7 @@
       "2026-08-13": 105,
       "2026-08-14": 211,
       "2026-08-15": 250,
-      "2026-08-16": 156
+      "2026-08-16": 174
     }
   },
   {
