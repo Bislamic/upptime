@@ -1,7 +1,7 @@
 url: https://deen.social/api/v1/instance
-status: degraded
+status: up
 code: 200
-responseTime: 5103
-lastUpdated: 2026-08-17T17:16:46.313Z
+responseTime: 814
+lastUpdated: 2026-08-17T17:47:43.876Z
 startTime: 2026-05-09T16:35:58.485Z
 generator: Upptime <https://github.com/upptime/upptime>
